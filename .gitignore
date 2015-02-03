@@ -1,0 +1,25 @@
+#OS GENERATED FILES
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#PUBLISHED SITE
+_site
+
+#SASS
+.sass-cache
+
+#NODE MODULES
+node_modules
+
+#FRAMEWORK DEVELOPMENT SOURCE FILES
+src
+package.json
+config.rb
+bower.json
+bower_components
+gulpfile.js
